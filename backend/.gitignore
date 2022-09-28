@@ -4,6 +4,7 @@
 /node_modules
 
 .keystone
+.env
 
 # misc
 .DS_Store
